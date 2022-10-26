@@ -1,8 +1,8 @@
-<img  src="https://capsule-render.vercel.app/api?type=waving&color=6FC7E1&height=300&section=header&text=Hi%20Everyone&fontSize=70&fontColor=0000ff&desc=lets%20have%20a%20chat!💬" alt="header" width="100%"/>
+<img  src="https://capsule-render.vercel.app/api?type=waving&color=189AB4&height=250&section=header&text=Hello%20Everyone&fontSize=70&fontColor=05445E&desc=lets%20have%20a%20chat!💬" alt="header" width="100%"/>
 <p align ="center" fontSize="70"></p>
 
 <section align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="300"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100%" height="400"/>
 </section>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
@@ -12,8 +12,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 </p>
 <h2> 🚀 &nbsp;My Github History</h2>
+<section align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dinvoid&show_icons=true&theme=radical" width="100%" height="400"/>
+</section>
 
-![dinvoid's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinvoid&show_icons=true&theme=radical)
 
 
 
