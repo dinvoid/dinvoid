@@ -1,4 +1,4 @@
-<img  src="https://capsule-render.vercel.app/api?type=waving&color=189AB4&height=250&section=header&text=Hello%20Everyone&fontSize=70&fontColor=05445E&desc=lets%20have%20a%20chat!💬" alt="header" width="100%"/>
+<img  src="https://capsule-render.vercel.app/api?type=waving&color=189AB4&height=250&section=header&text=Hello%20Everyone&fontSize=70&fontColor=05445E&desc=have%a%20a%goood%20day!" alt="header" width="100%"/>
 <h1 align ="center" color="05445E" fontSize="70">LET'S HAVE A CHAT💬</h1>
 
 <section align="center">
