@@ -1,4 +1,4 @@
-<img  src="https://capsule-render.vercel.app/api?type=waving&color=189AB4&height=250&section=header&text=Hello%20Everyone&fontSize=70&fontColor=05445E&desc=have%a%20a%goood%20day!" alt="header" width="100%"/>
+<img  src="https://capsule-render.vercel.app/api?type=waving&color=189AB4&height=250&section=header&text=Hello%20Everyone&fontSize=70&fontColor=05445E&desc=have%20a%20%20goood%20day!" alt="header" width="100%"/>
 <h1 align ="center" color="05445E" fontSize="70">LET'S HAVE A CHAT💬</h1>
 
 <section align="center">
@@ -8,8 +8,9 @@
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="php" width="45" height="45"/>
 </p>
 <h2> 🚀 &nbsp;My Github History</h2>
 <section>
